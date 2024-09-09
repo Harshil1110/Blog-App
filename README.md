@@ -14,6 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+After that you have to enter localhost:3000/signup for signup the user.
+After that you have to enter localhost:3000/login for login the user.
+If you want to create the log then you have to write localhost:3000/create in the url.
+
+you have to write cd backend to go in backend folder,
+now run this command: node index.js to run the backend.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
